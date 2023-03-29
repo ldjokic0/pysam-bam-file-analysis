@@ -1,6 +1,6 @@
 # Analysis of the BAM file with pysam python module
 
-Analysis of the am file to determine:
+Analysis of the bam file to determine:
 
 - What is the total number of reads in the file?
 - How many unmapped reads are in the file?
